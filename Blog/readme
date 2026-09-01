@@ -1,0 +1,24 @@
+# Front-end do Blog de Aventuras
+
+Estrutura HTML estática para a página principal de um blog focado em viagens, passeios e aventuras ao ar livre.
+
+## 🚀 Funcionalidades
+
+* **Barra de Navegação Header:** Links para *Home*, *Categorias* e *Contato*.
+* **Feed de Publicações:** Exibição de posts com imagem, título, resumo do texto, autor e link "Ler mais".
+* **Barra Lateral (Sidebar):
+  * Campo de busca.
+  * Lista de categorias (Paisagens, Aventura, Viagens longas, etc.).
+  * Nuvem de tags (Lifestyle, Viagem, Trilha, Rafting, etc.).
+* **Rodapé (Footer):** Identificação e slogan do blog.
+
+## 📁 Estrutura de Arquivos Recomendad
+
+```text
+/
+├── index.html
+├── style.css
+└── imgs/
+    ├── f1.jpg
+    ├── f2.jpg
+    └── f3.jpg
